@@ -18,7 +18,7 @@ Asked to develop an API to do CRUD tasks, and this API need to have this functio
 - creacted_at: date when the task is created
 - updated_at: date when the task is updated
 
-# Rotes
+# Routes
 
 - POST => /tasks
 - GET => /tasks
